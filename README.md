@@ -1,6 +1,6 @@
-# Fit Monkeys - https://obscure-wave-97311.herokuapp.com/
+# Fit Monkeys 
 # Final-Project
-UCLA final project
+UCLA final project - https://obscure-wave-97311.herokuapp.com/
 
 ## Developers
 * David McNeary
