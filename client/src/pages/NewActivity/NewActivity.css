@@ -1,0 +1,25 @@
+.newActP {
+    /* color: #222;
+    text-shadow: 1px 1px 2px lemonchiffon;
+    font-weight: bold; */
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    color: #37393d;
+}
+
+.btnSub1 {
+    color:white;
+    background-color: #1F618D;
+    border: none;
+    border-radius: 17px;
+    padding: 8px 18px;
+    display: flex; 
+    justify-content: center; 
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.btnSub1:hover {
+ background-color: #B0C4DE;
+}

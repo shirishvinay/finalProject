@@ -1,0 +1,93 @@
+
+.imgC {
+
+    position: absolute;
+    top:-100%; left:-100%; right: -100%; bottom:-100%;
+    margin: auto;
+    /* width: 100%; */
+    text-align: center;
+    /* background: url('backgroundimage.jpg') no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.btn {
+    text-align: center;
+}
+
+.JumboPic {
+    /* background: url('../../Images/runSun.jpg') no-repeat 0 0; */
+    background: url(https://content.active.com/Assets/Active.com+Content+Site+Digital+Assets/B25K+620.jpg);
+}
+
+/* .card {
+ width: 700px;
+} */
+
+.carousel {
+    overflow: hidden;
+}
+.carousel-inner {
+    min-width: 800px;
+}
+
+.imgHero {
+    position: relative;
+    max-height: 675px;
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.Btn {
+    color:white;
+    background-color: #1F618D;
+    border: none;
+    border-radius: 17px;
+    padding: 12px 28px;
+    display: flex; 
+    justify-content: center; 
+    font-weight: bold;
+}
+
+.Btn:hover {
+    background-color: grey;
+    color: white;
+  }
+
+  .btn-toolbar {
+      justify-content: center;
+  }
+
+  h3 {
+      color: rgb(228, 224, 224);
+      -webkit-text-stroke-width: .5px;
+      -webkit-text-stroke-color: darkslategray;
+      font-weight: bold;
+      font-size: 40px;
+      /* font-family: 'Roboto Condensed', sans-serif; */
+  }
+
+  .h3Color {
+    color: #1F618D;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: darkslategray;
+    font-weight: bold;
+    font-size: 40px;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+}
+
+.h3Color2 {
+    color: white;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: darkslategray;
+    font-weight: bold;
+    font-size: 40px;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+}

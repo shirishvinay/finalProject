@@ -1,0 +1,79 @@
+.cardCard {
+    background: #b3c3dd;
+    border-radius: 2px;
+    height: 450px;
+    margin: 1rem;
+    position: relative;
+    width: 325px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #37393d;
+  }
+
+  strong {
+    color: black;
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  .card > .img-container {
+    height: 60%;
+    height: 200px;
+    overflow: hidden;
+    text-align: center;
+    background:white;
+  }
+  .card > .img-container > img {
+    width: 50%;
+    padding-top: 20px;
+  }
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }
+  
+  .card > .content > ul {
+    list-style-type: none;
+  }
+  
+  .card > .content > ul > li {
+    margin-top: 18px;
+  }
+  
+  .card > .remove {
+    color: black;
+    font-size: 48px;
+    position: absolute;
+    top: -20px;
+    right: 5px;
+    cursor: pointer;
+  }
+  
+  .card > .remove:hover {
+    color: black;
+  }
+
+  .joinBtn {
+    text-align: center;
+    /* margin: auto; */
+    margin-left: 63px;
+    margin-right: 8px;
+    color:white;
+    background-color: #1F618D;
+    border: none;
+    border-radius: 14px;
+    padding: 4px 14px;
+    display: flex; 
+    justify-content: center; 
+  }
+
+  .tool {
+    background: grey;
+    color: blue;
+  }
+

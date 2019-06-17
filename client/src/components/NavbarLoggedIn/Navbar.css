@@ -1,0 +1,31 @@
+.navbar-brand {
+    color: #1F618D;
+    font-size: 45px;
+}
+
+.header {
+    background-color: none;
+    border-bottom: 1px solid #8c8b8b;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 20px;
+    z-index: 10;
+    /* font-family: 'Oxygen', sans-serif;  */
+    /* font-family: 'Noto Sans TC', sans-serif; */
+}
+
+.nav-log {
+    color:#1F618D;
+    font-size: 25px;
+    /* display: inline-block; */
+    text-align: right;
+    /* width: 100%; */
+    /* padding-right: 10px; */
+}
+
+  @media screen and (max-width: 600px) {
+    .navbar-brand {
+      /* float: none;
+      display: block; */
+      font-size: 30px; 
+    }
+  }

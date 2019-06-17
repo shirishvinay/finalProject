@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af960a0b.chunk.css",
+    "main.js": "/static/js/main.6bf57b31.chunk.js",
+    "main.js.map": "/static/js/main.6bf57b31.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.0d61c16b.chunk.js": "/static/js/2.0d61c16b.chunk.js",
+    "static/js/2.0d61c16b.chunk.js.map": "/static/js/2.0d61c16b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b03b608af74484f2ecc36c0c76d5187e.js": "/precache-manifest.b03b608af74484f2ecc36c0c76d5187e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.af960a0b.chunk.css.map": "/static/css/main.af960a0b.chunk.css.map",
+    "static/media/Login.css": "/static/media/abstract.308b3cab.jpg",
+    "static/media/bikeWoman.jpg": "/static/media/bikeWoman.86a4c07f.jpg",
+    "static/media/girlHike.jpg": "/static/media/girlHike.2a40c322.jpg",
+    "static/media/Challenges.css": "/static/media/hike2.2c508acb.jpeg",
+    "static/media/monkeypic.jpg": "/static/media/monkeypic.eba3d3cd.jpg",
+    "static/media/runBeach.jpg": "/static/media/runBeach.cbc5a051.jpg"
+  }
+}
